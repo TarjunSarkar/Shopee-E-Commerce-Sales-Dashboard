@@ -9,38 +9,39 @@ This dashboard helps the e-commerce business understand its sales performance be
 
 Data Collection:
 - Gathered raw sales data, including metrics such as sales amount, profit, quantity, customer names, categories, subcategories, payment modes, and order dates.
+
 Data Cleaning and Preparation:
 - Used Power Query to clean and format the data.
 - Removed duplicates, handled missing values, and ensured data consistency.
 - Organized data into structured tables for analysis.
+  
 Importing Data into Power BI:
-
 - Imported the cleaned dataset into Power BI.
 - Created relationships between relevant tables to enable dynamic reporting.
-Designing the Dashboard Layout:
 
+Designing the Dashboard Layout:
 - Planned the layout for clarity, focusing on key metrics such as total sales, quantity, profit, and AOV (Average Order Value).
 - Positioned slicers for interactivity.
-Creating Visualizations:
 
+Creating Visualizations:
 - Used KPI cards for quick insights (Ex: total sales amount, quantity, profit).
 - Added bar charts to show sales performance by state, profit by subcategory, and amount by customer name.
 - Used pie charts to analyze sales by category and payment mode.
 - Included a clustered bar chart for monthly profit trends.
-Adding Interactivity:
 
+Adding Interactivity:
 - Enabled filters and slicers to allow dynamic analysis by quarter and other categories.
 - Ensured that visuals responded to user inputs for detailed insights.
-Customizing Visuals:
 
+Customizing Visuals:
 - Applied a consistent color theme for aesthetic appeal and readability.
 - Adjusted labels, legends, and titles for clear communication.
-Validating Insights:
 
+Validating Insights:
 - Cross-checked dashboard insights with raw data to ensure accuracy.
 - Fine-tuned the dashboard for performance and usability.
-Final Touches:
 
+Final Touches:
 - Added a clear title and headers for better interpretation.
 - Tested the dashboard to ensure it meets business analysis requirements.
 
