@@ -10,7 +10,6 @@ This dashboard helps the e-commerce business understand its sales performance be
 Data Collection:
 - Gathered raw sales data, including metrics such as sales amount, profit, quantity, customer names, categories, subcategories, payment modes, and order dates.
 Data Cleaning and Preparation:
-
 - Used Power Query to clean and format the data.
 - Removed duplicates, handled missing values, and ensured data consistency.
 - Organized data into structured tables for analysis.
