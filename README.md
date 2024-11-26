@@ -1,8 +1,6 @@
 
 # Shopee E-Commerce Sales Analysis Dashboard
 
-![image](https://github.com/user-attachments/assets/a5ae2bb8-5766-4201-a237-dd90e47dec60)
-
 ## Problem Statement
 
 This dashboard helps the e-commerce business understand its sales performance better. It identifies top-performing regions, customer preferences, and profitable product categories, allowing the business to focus on growth opportunities. By analyzing payment modes, it reveals customer behavior and optimizes transaction processes. It also highlights monthly profit trends, enabling the business to address loss-making periods and capitalize on high-profit months. By using this dashboard, the business can implement data-driven strategies to boost sales, enhance customer satisfaction, and improve overall profitability.
